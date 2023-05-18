@@ -138,14 +138,34 @@ The Y-axis is responsible for moving the print bed back and forth along the hori
 
 The Z-axis is responsible for moving the print head up and down along the vertical axis.
 
+#### X AXIS ASSEMBLY :
+
+The X-axis is responsible for moving the print head back and forth along the horizontal axis.
+
+#### SMPS :
+
+convert ac to dc current.
+
+#### LCD :
+
+LCD screen provides a user-friendly interface that allows the user to control the printer and monitor its progress during printing.
+
+#### SPOOL HOLDER :
+
+It holds spool.
+
+#### SPOOL :
+
+A spool refers to a roll of filament that is used as the printing material for the 3D printer. 
+
+### PLAYING WITH AXES 
+
+![image](https://github.com/KANISHKAR2607/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118886772/4d5464b5-c963-4085-a235-e712e601464c)
 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
-
-## Output:
-
-### Name: 
-### Register Number:
+### Name: KANISHKAR M
+### Register Number:212222240044
 
 ## Result: 
-### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+
+Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
